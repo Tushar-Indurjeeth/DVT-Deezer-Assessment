@@ -24,7 +24,7 @@ const ArtistResults = ({
         <div className="pl-6 text-2xl md:text-3xl">All albums released:</div>
         <div className="px-3 py-3 sm:grid md:grid-cols-2 3xl:flex flex-wrap justify-center pl-6 text-lg md:text-xl space-y-1">
           {artistTopAlbums.data.map((result, i) => (
-            <div key={i}>{result.title}</div>
+            <div key={i}>{`${result.title} - ${result.release_date}`}</div>
           ))}
         </div>
       </div>
