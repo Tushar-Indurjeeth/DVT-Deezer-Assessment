@@ -6,8 +6,8 @@
 
 ## User flow
 
- - Search for a song name.
- - Click on 1 of the search results to view more information on the artist.
+- Search for a song name.
+- Click on 1 of the search results to view more information on the artist.
 
 ## Built using
 
