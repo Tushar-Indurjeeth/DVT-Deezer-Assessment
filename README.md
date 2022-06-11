@@ -21,7 +21,7 @@ Hosted through [Netlify](https://www.netlify.com/).
 
 ## License
 
-Code released under the [MIT License]().
+Code released under the [MIT License](https://github.com/Tushar-Indurjeeth/DVT-Deezer-Assessment/blob/d1f31fd8e8820a6936070dddfb7e63058b49fd97/LICENSE).
 
 ## Getting Started
 
