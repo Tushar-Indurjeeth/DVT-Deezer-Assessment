@@ -49,10 +49,10 @@ export default function Home() {
 
         <div className="flex flex-col w-1/2 space-y-2 justify-center mt-8 sm:space-y-0 sm:flex-row sm:space-x-4">
           <button onClick={search} className="btn">
-            Deezer Search
+            {'Deezer Search'}
           </button>
           <button onClick={search} className="btn">
-            I'm Feeling Very Lucky
+            {"I'm Feeling Very Lucky"}
           </button>
         </div>
       </form>
